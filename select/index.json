@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "超デジタル超デトックス (Remix)",
+  "base_artist": "nyamura",
+  "createdAt": "2026-03-08T08:21:20.535615Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超デジタル超デトックス",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_超デジタル超デトックス_nyamura.txt"
+    }
+  ]
+}
